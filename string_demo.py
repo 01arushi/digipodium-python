@@ -37,3 +37,5 @@ print(c)
 d=name[0::2]
 d=name[1:4:2]
 print(d)
+
+name 
